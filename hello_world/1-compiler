@@ -1,2 +1,2 @@
-Archivo prueba
-
+#!/bin/bash
+gcc -c $CFILE
